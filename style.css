@@ -48,6 +48,7 @@ body{
 .container form button{
     background: #c43862;
     color: #fff;
+    cursor: pointer;
 }
 
 .container .qr-code{
